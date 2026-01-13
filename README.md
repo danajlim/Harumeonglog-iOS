@@ -21,9 +21,14 @@
 * **Key Achievements:** Achieved **100+ downloads** and maintained a **99.9% crash-free rate** through rigorous QA processes.
 
 ## 📸 Screenshots
-| Home Screen | Photo Album | Health Log |
 |:---:|:---:|:---:|
-| *(Upload Image)* | *(Upload Image)* | *(Upload Image)* |
+|![0x4096h-2](https://github.com/user-attachments/assets/15ccc578-c655-4c7a-a205-c1f46230c356)
+ |  ![0x4096h-6](https://github.com/user-attachments/assets/6cbe9d1b-1ac9-4257-bea6-8df85fffcdc4)
+ |![0x4096h-5](https://github.com/user-attachments/assets/6f39118e-7da3-420d-ae05-5023e14cc939)
+  | ![0x4096h-4](https://github.com/user-attachments/assets/a5d38aa8-2f57-47ce-afe2-e89c7f58a3a3)
+ |![0x4096h-3](https://github.com/user-attachments/assets/340f3243-2a43-4664-b3fb-4368b05a8dd1)
+  | ![0x4096h-2](https://github.com/user-attachments/assets/15ccc578-c655-4c7a-a205-c1f46230c356)
+ |  
 ## 🛠️ Tech Stack
 * **Language:** Swift
 * **UI Framework:** SwiftUI, UIKit (Partially)
