@@ -16,7 +16,7 @@
 
 ## 📖 Project Overview
 * **Goal:** To provide a seamless user experience for pet owners to track their pets' health and daily activities.
-* **Role:** iOS Lead Developer (Team of 6)
+* **Role:** iOS Developer
 * **Duration:** Dec 2024 – Sep 2025
 * **Key Achievements:** Achieved **100+ downloads** and maintained a **99.9% crash-free rate** through rigorous QA processes.
 
